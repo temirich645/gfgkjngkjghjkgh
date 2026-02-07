@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    position: absolute;
+    height: 64px;
+    background: #28D705;
+}
+
+footer {
+    position: absolute;
+    height: 64px;
+    top: 1376px;
+    background: #28D705;
+}
+
+h1 {
+    position: absolute;
+    width: 671px;
+    height: 77px;
+    left: 370px;
+    top: 124px;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+}
+
+p {
+    position: absolute;
+    width: 1990px;
+    height: 1071px;
+    left: 57px;
+    top: 225px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 44px;
+}
+
+a {
+    position: absolute;
+    width: 167px;
+    height: 44px;
+    left: 25px;
+    top: 71px;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+color: #000000;
+}
+
+
+
