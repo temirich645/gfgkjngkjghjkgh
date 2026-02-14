@@ -5,7 +5,8 @@ body {
 header {
     position: absolute;
     height: 64px;
-    background: #28D705;
+    background-color: #28D705;
+    color: #28D705;
 }
 
 footer {
@@ -13,6 +14,7 @@ footer {
     height: 64px;
     top: 1376px;
     background: #28D705;
+    color: #28D705;
 }
 
 h1 {
@@ -32,8 +34,6 @@ p {
     height: 1071px;
     left: 57px;
     top: 225px;
-
-    font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 30px;
@@ -49,8 +49,7 @@ a {
     font-weight: 400;
     font-size: 36px;
     line-height: 44px;
-color: #000000;
+    color: #000000;
 }
-
 
 
