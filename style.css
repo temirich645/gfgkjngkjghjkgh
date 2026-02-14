@@ -6,7 +6,7 @@ header {
     position: absolute;
     height: 64px;
     background-color: #28D705;
-    width: 1024px;
+    color: #28D705;
 }
 
 footer {
@@ -14,7 +14,7 @@ footer {
     height: 64px;
     top: 1376px;
     background: #28D705;
-    width: 1024px;
+    color: #28D705
 }
 
 h1 {
